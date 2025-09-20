@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "item_type": "dress",
+      "color": "blue",
+      "style": "vintage",
+      "description": "",
+      "added_at": "2025-09-20T18:11:24.218798"
+    }
+  ]
+}
